@@ -7,7 +7,7 @@ Health sidekick is a prototype mobile application that is aimed at health care w
 ### Run app through simulator
 - Install xcode
 - clone repo: `git clone https://github.com/sommercodes/we-vs-virus.git`
-- `cd ve-vs-virus/we-vs-virus`
+- `cd we-vs-virus/we-vs-virus`
 - `npm install`
 - `npm start`
 - In a separate command prompt `npm run ios`
